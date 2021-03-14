@@ -1,0 +1,13 @@
+name = "AreumAI"
+uuid = "ab981f4b-3604-41c2-96d7-c33190795d3e"
+authors = ["areumict <areum.ai.kr@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
